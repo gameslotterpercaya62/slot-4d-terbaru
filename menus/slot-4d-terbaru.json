@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-4d-terbaru",
+        "command": "slot-4d-terbaru:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-4d-terbaru",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-4d-terbaru:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

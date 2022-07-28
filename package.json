@@ -1,0 +1,18 @@
+{
+  "name": "slot-4d-terbaru",
+  "main": "./lib/slot-4d-terbaru",
+  "version": "1.0.0",
+  "description": "Cara Deposit Cara Hack Slot 4d Terbaru Langsung Dapat Bonus Tanpa Deposit",
+  "keywords": ["bandar slot","spade gaming","habanero slot","slot online cq9","bandar slot online","slot joker gaming","situs judi slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-4d-terbaru:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya62/slot-4d-terbaru",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
